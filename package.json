@@ -1,0 +1,29 @@
+{
+  "name": "custom-swagger-ui-express",
+  "version": "1.0.0",
+  "description": "custom swagger ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cendeal/custom-swagger-ui-express.git"
+  },
+  "keywords": [
+    "swagger-ui",
+    "node"
+  ],
+  "author": "Cendeal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cendeal/custom-swagger-ui-express/issues"
+  },
+  "homepage": "https://github.com/Cendeal/custom-swagger-ui-express#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
