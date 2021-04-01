@@ -11,7 +11,7 @@ Usage
 ```javascript
 const app = express();
 const swaggerUI = require('express-swagger-generator');
-swaggerUI(app, {
+swaggerUI.registerSwaggerUI(app, {
     route: options.route,
     layer: 3,
     filter: {
