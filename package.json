@@ -1,6 +1,6 @@
 {
   "name": "custom-swagger-ui-express",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "custom swagger ui",
   "main": "index.js",
   "scripts": {
